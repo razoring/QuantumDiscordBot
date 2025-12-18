@@ -29,7 +29,7 @@
 
 
 ## Installation
-[![Install](https://cdn.discordapp.com/attachments/1449671376100261900/1451295681821282404/install.png?ex=6945a7ee&is=6944566e&hm=8326022448ca36f34d47813bda5555cb3b64d4762349a8840f8a72dcc3947fe9&)](https://discord.com/oauth2/authorize?client_id=1447285084402094212)
+[![Install](https://media.discordapp.net/attachments/1449671376100261900/1451297884174548992/install.png?ex=6945a9fb&is=6944587b&hm=533e399f92d6bd45bf41222cce795007ca8e936049041edd288a5a75fa7d036d&=&format=webp&quality=lossless)](https://discord.com/oauth2/authorize?client_id=1447285084402094212)
 ## Usage
 
 #### Prediction
