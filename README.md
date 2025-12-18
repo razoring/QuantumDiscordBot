@@ -114,6 +114,7 @@ Clear every alert:
 - Line chart for chart history
 - More in-depth telemetry
 - Implementation of the AI
+- Compare command
 ## Support
 
 For support, join the [discord server](https://discord.gg/CEtxwANbAy).
