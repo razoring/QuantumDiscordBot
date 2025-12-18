@@ -1,0 +1,82 @@
+PRIVACY POLICY
+
+Effective Date: 12/17/25
+
+Last Updated: 12/17/25
+
+1. INTRODUCTION
+
+This Privacy Policy ("Policy") describes how Razor / Razoring ("Creator," "We," "Us," or "Our") collects, uses, and discloses information when you use the Discord application known as Quantum Bot ("Service", "Bot", or "R.I.C.H.").
+
+We are committed to respecting your privacy. By using the Service, you consent to the data practices described in this Policy. If you do not agree with the data practices described herein, you should not use the Bot.
+
+2. INFORMATION WE COLLECT
+
+We collect information to provide better services to all our users. The types of information we collect include:
+
+2.1. Automated Telemetry Data (Anonymized):
+When you interact with the Bot (e.g., running commands such as /predict or /chart), we automatically collect certain technical data ("Telemetry"). This data is anonymized and cannot be used to personally identify you. This includes, but is not limited to:
+
+Command Usage: Which commands are executed and how frequently.
+
+Ticker Requests: Which stock symbols or financial instruments are queried.
+
+Error Logs: Technical data generated when the Bot encounters a malfunction.
+
+Performance Metrics: Latency and response times of the Bot.
+
+2.2. User-Submitted Feedback (Non-Anonymous):
+If you voluntarily provide feedback, bug reports, or suggestions via a dedicated Discord Support Server, direct message, or feedback command (e.g., clicking "Realistic" or "Unrealistic" buttons):
+
+Not Anonymous: You acknowledge that this information is associated with your Discord User ID and Username.
+
+Public Visibility: Feedback posted in public channels on our Support Server may be visible to other users.
+
+2.3. Discord API Data:
+The Bot receives standard data provided by the Discord API necessary for functionality, such as:
+
+Your Discord User ID (to verify permissions).
+
+Server (Guild) IDs (to verify authorization).
+
+3. HOW WE USE YOUR INFORMATION
+
+We use the collected information for the following specific purposes:
+
+3.1. Service Improvement and Training:
+
+Algorithm Training: We use anonymized historical query data (e.g., which tickers are requested most often) to refine, update, and modify the R.I.C.H. (Razor's Intelligent Charting Heuristic) algorithm.
+
+Bot Updates: Telemetry data allows us to identify bugs, optimize performance, and develop new features relevant to user interests.
+
+3.2. Operational Functionality:
+
+To process and respond to your commands.
+
+To manage server access and enforce our Terms of Service.
+
+4. DATA SHARING AND DISCLOSURE
+
+We do not sell, trade, or rent your personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
+
+We may disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws or respond to a court order, judicial, or other government subpoena.
+
+5. DATA RETENTION
+
+We retain anonymized Telemetry data for as long as necessary to fulfill the purposes outlined in this Policy, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+6. SECURITY
+
+We take reasonable measures to protect the information that we collect from or about you form unauthorized access, use, or disclosure. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+
+7. CHILDREN'S PRIVACY
+
+The Service is not directed to individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
+
+8. CHANGES TO THIS POLICY
+
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Policy, we may notify you by updating the date at the top of this Policy or by posting a notice in our official Discord Support Server. Your continued use of the Service after any such changes constitutes your acceptance of the new Privacy Policy.
+
+9. CONTACT US
+
+If you have questions or comments about this Policy, please contact us via Discord Direct Messages to user, @razoring.
