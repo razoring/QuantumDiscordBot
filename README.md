@@ -8,7 +8,7 @@
 - Cross Platform (Available on IOS, Android, Desktop Web)
 - Prediction:
     - **Implied Volatility (Most Reliable):** Uses a modified Black-scholes implied volatility formula that extracts options data (Calls/Puts) and uses a modified probability density function to display as a fan chart. However, data is less precise if the stock is less popular.
-    - **Extrapolation (Fallback):** Predicts based on  past data, however, does not understand why those patterns appear. However, through multiple phases observing different data ranges (1y, 3y, 5y), it returns with the mean of the data to increase the accuracy.
+    - **Extrapolation (Fallback):** Uses a modified times-series forecasting model with a custom fourier order and perfected weights. Predicts based on past data, however, does not understand why those patterns appear. However, through multiple phases observing different data ranges (1y, 3y, 5y), it returns with the mean of the data to increase the accuracy.
     - **Aggregate-Extrapolation (Default):** The best of both worlds. It takes both the implied volatility and the extrapolation results and averages the two to get both foresight and hindsight. (Not available if implied volatility data does not exist)
     - **Logical Analysis (Most Accurate):** Takes a consideration of both implied volatility and the extrapolation model and views upcoming events, previous earnings reports, analyst suggestions, latest news, and social media sentiment and feeds it into a proprietary local LLM to return the most accurate prediction. (Requires membership)
 - Quote: Returns just the stock quote with an update button to fetch the latest quote fast.
