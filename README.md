@@ -1,3 +1,4 @@
+## WE ARE NOW DISCORD VERIFIED! 🥳🥳🥳
 ![Banner](https://media.discordapp.net/attachments/1449671376100261900/1451270165902655684/advert.png?ex=6945902a&is=69443eaa&hm=6d8634ecaafc0f5dbcf970f6a5e8dfcefa386ebd8e8297b12d70690dcf524487&=&format=webp&quality=lossless)
 
 [![Join](https://camo.githubusercontent.com/d98378c65f343e4caef2b96cbe18bdc5bda7f5858f14b2691157ae3dffcc1b2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6f696e5f75732d6f6e5f646973636f72642d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/CEtxwANbAy)
