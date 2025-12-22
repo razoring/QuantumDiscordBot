@@ -3,7 +3,8 @@
 
 
 [![Join](https://camo.githubusercontent.com/d98378c65f343e4caef2b96cbe18bdc5bda7f5858f14b2691157ae3dffcc1b2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6f696e5f75732d6f6e5f646973636f72642d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/CEtxwANbAy)
-[![Install](https://media.discordapp.net/attachments/1449671376100261900/1451297884174548992/install.png?ex=6945a9fb&is=6944587b&hm=533e399f92d6bd45bf41222cce795007ca8e936049041edd288a5a75fa7d036d&=&format=webp&quality=lossless)](https://discord.com/oauth2/authorize?client_id=1447285084402094212)
+[![Install]([https://media.discordapp.net/attachments/1449671376100261900/1451297884174548992/install.png?ex=6945a9fb&is=6944587b&hm=533e399f92d6bd45bf41222cce795007ca8e936049041edd288a5a75fa7d036d&=&format=webp&quality=lossless)](https://discord.com/oauth2/authorize?client_id=1447285084402094212](https://img.shields.io/badge/on_discord-5865F2?logo=discord&logoColor=white&label=install&link=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D1447285084402094212
+))
 ## Quantum 
 
 - Cross Platform (Available on IOS, Android, Desktop Web)
