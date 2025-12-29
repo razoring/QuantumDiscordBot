@@ -1,4 +1,3 @@
-## WE ARE NOW DISCORD VERIFIED! 🥳🥳🥳
 ![Banner](assets/verified.png)
 
 
