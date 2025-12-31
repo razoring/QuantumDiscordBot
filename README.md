@@ -25,6 +25,7 @@
     - Past 5 Years (5y)
     - Past 10 Years (10y)
     - Maximum Displayable (all)
+- Advertise your server!
 - Alerts: Set, delete, clear all, or list all alerts. Alerts can be set at a specific price or can send daily volatility at the end of trading hours.
 - Smart Cache: Predictions are updated daily, once generated, the chart image gets cached so further retrieval of the same ticker is quicker. History charts are cached by their period. Charts with a lower period (max, 10y, 5y) are cached for longer.
 - Version is live updated by the git commits count. (pretty cool)
